@@ -1,11 +1,9 @@
 prime_numbers = []
-
-for num in range(1, 200000):
-    for i in range(2, num):
+for num in range(1, 2_000_001):
+    for i in range(1, num):
         if (num % i) == 0:
             break
     else:
         prime_numbers.append(num)
 
-print(prime_numbers)
-print(prime_numbers[10_002])
+print(sum(prime_numbers))
