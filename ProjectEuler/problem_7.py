@@ -1,3 +1,5 @@
+"""What is the 10,001st prime number?"""
+
 prime_numbers = []
 
 for num in range(1, 200000):
