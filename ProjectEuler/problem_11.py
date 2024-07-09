@@ -1,3 +1,6 @@
+"""What is the greatest product of four adjacent numbers in the same direction (up, down, left, right, or diagonally) in
+the 20 x 20 grid?"""
+
 grid=[8,2,22,97,38,15,0,40,0,75,4,5,7,78,52,12,50,77,91,8,
 49,49,99,40,17,81,18,57,60,87,17,40,98,43,69,48,4,56,62,0,
 81,49,31,73,55,79,14,29,93,71,40,67,53,88,30,3,49,13,36,65,
@@ -32,7 +35,8 @@ for h in range(0,20):
         if grid[(hsub*20)+h]* grid[((hsub+1)*20)+h]* grid[((hsub+2)*20)+h]* grid[((hsub+3)*20)+h] > largest[1]:
             largest[1] = grid[(hsub*20)+h]* grid[((hsub+1)*20)+h]* grid[((hsub+2)*20)+h]* grid[((hsub+3)*20)+h]
 
-#diagonal right and left
+
+
 
 for r in range(0,17):
     for rsub in range (0,17):
