@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Created until 6 solutions">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/testing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Math.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/problem_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/problem_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/problem_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/problem_11.py" afterDir="false" />
-    </list>
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Added Docstrings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +69,7 @@
       <recent name="C:\Users\finan\PycharmProjects\testing\ProjectEuler" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.problem_1">
     <configuration name="problem_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Math" />
       <option name="ENV_FILES" value="" />
@@ -167,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720190043488</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Docstrings">
+      <option name="closed" value="true" />
+      <created>1720458632610</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1720458632610</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +186,7 @@
     <MESSAGE value="Create first Rep in github, and created 2 problem solutions" />
     <MESSAGE value="Created Readme files" />
     <MESSAGE value="Created until 6 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created until 6 solutions" />
+    <MESSAGE value="Added Docstrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Docstrings" />
   </component>
 </project>
