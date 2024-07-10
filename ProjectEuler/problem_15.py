@@ -16,4 +16,5 @@ def lattice_paths_of_n(n):
                 my_list[i][f] = my_list[i-1][f]+my_list[i][f-1]
     return my_list[n][n]
 
+
 print(lattice_paths_of_n(20))
