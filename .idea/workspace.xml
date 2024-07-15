@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Added Docstrings" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Problem 18">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/problem_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/problem_19.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,9 @@
     &quot;accountId&quot;: &quot;81ee3c54-b076-44e4-a806-c52afee8d397&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -44,32 +50,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.network.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.problem_9.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/finan/PycharmProjects/Tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.main.executor": "Run",
+    "Python.network.executor": "Run",
+    "Python.problem_1.executor": "Run",
+    "Python.problem_10.executor": "Run",
+    "Python.problem_11.executor": "Run",
+    "Python.problem_12.executor": "Run",
+    "Python.problem_13.executor": "Run",
+    "Python.problem_14.executor": "Run",
+    "Python.problem_15.executor": "Run",
+    "Python.problem_16.executor": "Run",
+    "Python.problem_17.executor": "Run",
+    "Python.problem_18.executor": "Run",
+    "Python.problem_19.executor": "Run",
+    "Python.problem_2.executor": "Run",
+    "Python.problem_3.executor": "Run",
+    "Python.problem_4.executor": "Run",
+    "Python.problem_5.executor": "Run",
+    "Python.problem_6.executor": "Run",
+    "Python.problem_7.executor": "Run",
+    "Python.problem_8.executor": "Run",
+    "Python.problem_9.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/finan/PycharmProjects/Tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\finan\PycharmProjects\testing\ProjectEuler" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.problem_1">
+  <component name="RunManager">
     <configuration name="problem_1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Math" />
       <option name="ENV_FILES" value="" />
@@ -168,7 +182,71 @@
       <option name="project" value="LOCAL" />
       <updated>1720458632610</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Problem 11">
+      <option name="closed" value="true" />
+      <created>1720497218025</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720497218025</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Problem 12">
+      <option name="closed" value="true" />
+      <created>1720530869306</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720530869306</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Problem 13">
+      <option name="closed" value="true" />
+      <created>1720559215391</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720559215391</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Problem 14">
+      <option name="closed" value="true" />
+      <created>1720630688968</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720630688968</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Problem 15">
+      <option name="closed" value="true" />
+      <created>1720631910591</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1720631910591</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Problem 16">
+      <option name="closed" value="true" />
+      <created>1720632443791</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1720632443791</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Problem 17">
+      <option name="closed" value="true" />
+      <created>1720638552055</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1720638552055</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Problem 18">
+      <option name="closed" value="true" />
+      <created>1720643724544</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1720643724544</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +265,14 @@
     <MESSAGE value="Created Readme files" />
     <MESSAGE value="Created until 6 solutions" />
     <MESSAGE value="Added Docstrings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Docstrings" />
+    <MESSAGE value="Problem 11" />
+    <MESSAGE value="Problem 12" />
+    <MESSAGE value="Problem 13" />
+    <MESSAGE value="Problem 14" />
+    <MESSAGE value="Problem 15" />
+    <MESSAGE value="Problem 16" />
+    <MESSAGE value="Problem 17" />
+    <MESSAGE value="Problem 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 18" />
   </component>
 </project>
