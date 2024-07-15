@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Problem 18">
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Problem 19">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/problem_20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/problem_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/problem_19.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +66,7 @@
     "Python.problem_18.executor": "Run",
     "Python.problem_19.executor": "Run",
     "Python.problem_2.executor": "Run",
+    "Python.problem_20.executor": "Run",
     "Python.problem_3.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
@@ -246,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720643724544</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Problem 19">
+      <option name="closed" value="true" />
+      <created>1721079574043</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721079574043</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +282,7 @@
     <MESSAGE value="Problem 16" />
     <MESSAGE value="Problem 17" />
     <MESSAGE value="Problem 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 18" />
+    <MESSAGE value="Problem 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 19" />
   </component>
 </project>
