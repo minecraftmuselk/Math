@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_22">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_23">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +231,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721748547857</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="problem_23">
+      <option name="closed" value="true" />
+      <created>1721938607134</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721938607134</updated>
+    </task>
+    <task id="LOCAL-00018" summary="problem_23">
+      <option name="closed" value="true" />
+      <created>1721938631439</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721938631439</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +278,7 @@
     <MESSAGE value="Problem 20" />
     <MESSAGE value="Reformatted Project" />
     <MESSAGE value="problem_22" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_22" />
+    <MESSAGE value="problem_23" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_23" />
   </component>
 </project>
