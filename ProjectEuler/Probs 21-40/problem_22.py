@@ -1,3 +1,5 @@
+"""What is the total of all the name scores in the file?"""
+
 with open('0022_names.txt', 'r') as file:
     content = file.read()
 

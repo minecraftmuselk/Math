@@ -1,3 +1,5 @@
+"""Evaluate the sum of all the amicable numbers under 10000"""
+
 def sum_of_divisors(n):
     divisors_sum = 1  # 1 is a proper divisor of any number n > 1
     for i in range(2, int(n ** 0.5) + 1):

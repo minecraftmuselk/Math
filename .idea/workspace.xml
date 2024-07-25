@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Reformatted Project">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_22.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_22">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_23.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_21.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +70,7 @@
     "Python.problem_20.executor": "Run",
     "Python.problem_21.executor": "Run",
     "Python.problem_22.executor": "Run",
+    "Python.problem_23.executor": "Run",
     "Python.problem_3.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
@@ -224,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721080254335</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="problem_22">
+      <option name="closed" value="true" />
+      <created>1721748547857</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721748547857</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +262,7 @@
     <MESSAGE value="Problem 19" />
     <MESSAGE value="Problem 20" />
     <MESSAGE value="Reformatted Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reformatted Project" />
+    <MESSAGE value="problem_22" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_22" />
   </component>
 </project>
