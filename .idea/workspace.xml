@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_23">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_24.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_24">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +72,9 @@
     "Python.problem_21.executor": "Run",
     "Python.problem_22.executor": "Run",
     "Python.problem_23.executor": "Run",
+    "Python.problem_24.executor": "Run",
+    "Python.problem_25.executor": "Run",
+    "Python.problem_26.executor": "Run",
     "Python.problem_3.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
@@ -247,7 +252,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721938631439</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="problem_24">
+      <option name="closed" value="true" />
+      <created>1721939054294</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721939054294</updated>
+    </task>
+    <task id="LOCAL-00020" summary="problem_24">
+      <option name="closed" value="true" />
+      <created>1721939071481</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1721939071481</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +300,18 @@
     <MESSAGE value="Reformatted Project" />
     <MESSAGE value="problem_22" />
     <MESSAGE value="problem_23" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_23" />
+    <MESSAGE value="problem_24" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_24" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_25.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
