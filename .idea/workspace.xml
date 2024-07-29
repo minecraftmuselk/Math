@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_26">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_27.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_27">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_28.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,7 @@
     "Python.problem_25.executor": "Run",
     "Python.problem_26.executor": "Run",
     "Python.problem_27.executor": "Run",
+    "Python.problem_28.executor": "Run",
     "Python.problem_3.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
@@ -292,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722108402366</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="problem_27">
+      <option name="closed" value="true" />
+      <created>1722217565918</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1722217565918</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -327,7 +336,8 @@
     <MESSAGE value="problem_24" />
     <MESSAGE value="problem_25" />
     <MESSAGE value="problem_26" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_26" />
+    <MESSAGE value="problem_27" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_27" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
