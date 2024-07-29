@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_25">
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_26">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_27.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_26.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +74,7 @@
     "Python.problem_24.executor": "Run",
     "Python.problem_25.executor": "Run",
     "Python.problem_26.executor": "Run",
+    "Python.problem_27.executor": "Run",
     "Python.problem_3.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
@@ -283,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722105025343</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="problem_26">
+      <option name="closed" value="true" />
+      <created>1722108402366</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1722108402366</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +326,8 @@
     <MESSAGE value="problem_23" />
     <MESSAGE value="problem_24" />
     <MESSAGE value="problem_25" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_25" />
+    <MESSAGE value="problem_26" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_26" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
