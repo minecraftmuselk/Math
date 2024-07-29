@@ -1,3 +1,5 @@
+"""Find the sum of all the numbers that can be written as the sum of fifth powers of their digits."""
+
 fifth_powers = []
 
 for i in range(1, 2_000_000):

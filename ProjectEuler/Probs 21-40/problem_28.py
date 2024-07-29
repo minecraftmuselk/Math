@@ -1,3 +1,5 @@
+"""What is the sum of the numbers on the diagonals in a 1001 by 1001 spiral formed in the same way?"""
+
 def spiral_diagonal_sum(n):
     total_sum = 1  # Starting with the center value
     for k in range(1, (n // 2) + 1):
