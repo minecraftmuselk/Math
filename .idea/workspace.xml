@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_30">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_27.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Updated with comments">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_31.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_31.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +79,7 @@
     "Python.problem_29.executor": "Run",
     "Python.problem_3.executor": "Run",
     "Python.problem_30.executor": "Run",
+    "Python.problem_31.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
@@ -329,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722269455613</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updated with comments">
+      <option name="closed" value="true" />
+      <created>1722269702220</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1722269702220</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -367,7 +374,8 @@
     <MESSAGE value="problem_27" />
     <MESSAGE value="problem_29" />
     <MESSAGE value="problem_30" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_30" />
+    <MESSAGE value="Updated with comments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated with comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
