@@ -1,3 +1,5 @@
+"""Find the sum of all products whose multiplicand/multiplier/product identity can be written as a 1 through 9 pan"""
+
 def is_pandigital(n):
     digits = sorted(str(n))
     return digits == ['1', '2', '3', '4', '5', '6', '7', '8', '9']
