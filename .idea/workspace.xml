@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_34">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_36.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +84,7 @@
     "Python.problem_33.executor": "Run",
     "Python.problem_34.executor": "Run",
     "Python.problem_35.executor": "Run",
+    "Python.problem_36.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
@@ -380,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722370029698</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="problem_34">
+      <option name="closed" value="true" />
+      <created>1722439918836</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1722439918836</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
