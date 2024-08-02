@@ -1,5 +1,6 @@
 """Find the sum of all numbers, less than one million, which are palindromic in base 10 and 2"""
 
+
 def convert_to_binary(n):
     return bin(n)[2:]
 
