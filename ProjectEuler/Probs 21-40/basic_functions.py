@@ -32,6 +32,11 @@ def is_pandigital(a):
     return len(a) == 9 and digits == set('123456789')
 
 
-h = '123456789'
+def is_pythagorean(a, b, c):
+    return (a ** 2) + (b ** 2) == (c ** 2)
 
-print(is_pandigital(9862457123))
+
+h = '123456789'
+hats = list(h)
+print(hats)
+print(hats[0])
