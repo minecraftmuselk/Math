@@ -1,6 +1,6 @@
 def is_prime(n):
     n = int(n)
-    if n <= 2:
+    if n < 2:
         return False
     for i in range(2, int(n ** 0.5) + 1):
         if n % i == 0:
@@ -38,7 +38,7 @@ for i in range(11, 100_000):
             if not is_prime(j):
                 primes.remove(i)
                 break"""
-n = '113'
+n = '114'
 j = n[:-1]
 k = n[1:]
 print(j)
@@ -48,3 +48,16 @@ print(len(k))
 print(is_prime(n))
 print(is_prime(j))
 print(is_prime(k))
+
+"""j = n[:end]
+        k = n[start:]
+        while len(j) >= 1 and len(k) >= 1:
+            if is_prime(j) and is_prime(k):
+                start += 1
+                end -= 1
+                if len(j) == 1 and len(k) == 1:
+                    return True
+                else:
+                    continue
+            else:
+                return False"""
