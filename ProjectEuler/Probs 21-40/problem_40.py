@@ -2,7 +2,7 @@ irrational_decimal = ''
 
 for i in range(1, 1_000_000):
     i = str(i)
-    irrational_decimal = irrational_decimal + i
+    irrational_decimal += i
 
 d1 = irrational_decimal[0]
 d2 = irrational_decimal[9]

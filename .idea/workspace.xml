@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_39">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_40.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_40">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_41.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/basic_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/basic_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_40.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +97,7 @@
     "Python.problem_39.executor": "Run",
     "Python.problem_4.executor": "Run",
     "Python.problem_40.executor": "Run",
+    "Python.problem_41.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
     "Python.problem_7.executor": "Run",
@@ -107,6 +110,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\finan\PycharmProjects\Math\ProjectEuler" />
       <recent name="C:\Users\finan\PycharmProjects\Math\ProjectEuler\Probs 21-40" />
       <recent name="C:\Users\finan\PycharmProjects\testing\ProjectEuler" />
     </key>
@@ -447,7 +451,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722969042532</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="problem_40">
+      <option name="closed" value="true" />
+      <created>1722997308847</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1722997308847</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,7 +474,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem 15" />
     <MESSAGE value="Problem 16" />
     <MESSAGE value="Problem 17" />
     <MESSAGE value="Problem 18" />
@@ -487,7 +498,8 @@
     <MESSAGE value="problem_37" />
     <MESSAGE value="problem_38" />
     <MESSAGE value="problem_39" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_39" />
+    <MESSAGE value="problem_40" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_40" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
