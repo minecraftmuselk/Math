@@ -1,4 +1,5 @@
 """File to get basic functions of mathematics"""
+import itertools
 
 
 def rotate_number(k):
@@ -10,7 +11,8 @@ def convert_to_binary(b):
     return bin(b)[2:]
 
 
-# Checking if a number has certain property
+"""Checking if a number has certain property"""
+
 
 def is_prime(n):
     n = int(n)
@@ -48,6 +50,26 @@ def is_pandigital(e):
 
 def is_pythagorean(a, b, c):
     return (a ** 2) + (b ** 2) == (c ** 2)
+
+
+def has_substring_divisibility_property(n):
+    return (int(n[1:4]) % 2 == 0 and
+            int(n[2:5]) % 3 == 0 and
+            int(n[3:6]) % 5 == 0 and
+            int(n[4:7]) % 7 == 0 and
+            int(n[5:8]) % 11 == 0 and
+            int(n[6:9]) % 13 == 0 and
+            int(n[7:10]) % 17 == 0)
+
+
+def pandigitals():
+    pans = []
+    for perm in itertools.permutations('0123456789'):
+        num = ''.join(perm)
+        pans.append(perm)
+
+
+"""Files"""
 
 
 def dictionary_for_word_value():
