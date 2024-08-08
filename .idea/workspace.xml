@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_40">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_41.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="problem_41">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_42.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/basic_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/basic_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_40.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_40.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/basic_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/basic_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ProjectEuler/Probs 21-40/basic_functions.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_22.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/ProjectEuler/Probs 21-40/problem_37.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
@@ -98,6 +97,7 @@
     "Python.problem_4.executor": "Run",
     "Python.problem_40.executor": "Run",
     "Python.problem_41.executor": "Run",
+    "Python.problem_42.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
     "Python.problem_7.executor": "Run",
@@ -459,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722997308847</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="problem_41">
+      <option name="closed" value="true" />
+      <created>1723043028667</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1723043028667</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -474,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problem 16" />
     <MESSAGE value="Problem 17" />
     <MESSAGE value="Problem 18" />
     <MESSAGE value="Problem 19" />
@@ -499,7 +506,8 @@
     <MESSAGE value="problem_38" />
     <MESSAGE value="problem_39" />
     <MESSAGE value="problem_40" />
-    <option name="LAST_COMMIT_MESSAGE" value="problem_40" />
+    <MESSAGE value="problem_41" />
+    <option name="LAST_COMMIT_MESSAGE" value="problem_41" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

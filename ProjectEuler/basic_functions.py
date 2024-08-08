@@ -50,6 +50,35 @@ def is_pythagorean(a, b, c):
     return (a ** 2) + (b ** 2) == (c ** 2)
 
 
+def dictionary_for_word_value():
+    d = dict()
+    j = 1
+    for i in range(ord('A'), ord('Z') + 1):
+        d[chr(i)] = j
+        j += 1
+
+
+def get_word_value(word):
+    d = dict()
+    j = 1
+    for i in range(ord('A'), ord('Z') + 1):
+        d[chr(i)] = j
+        j += 1
+    word_value = 0
+    word = word.upper()
+    for letter in word:
+        word_value += d[letter]
+    return word_value
+
+
+def write_triangle_numbers():
+    triangle_numbers = []
+    for i in range(1, 10_000):
+        i = (i / 2) * (i + 1)
+        i = int(i)
+        triangle_numbers.append(i)
+    return triangle_numbers
+
+
 h = '54123'
 print(is_pandigital(h))
-
