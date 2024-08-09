@@ -62,6 +62,16 @@ def has_substring_divisibility_property(n):
             int(n[7:10]) % 17 == 0)
 
 
+def is_triangle(x):
+    n = (-1 + (1 + 8 * x) ** 0.5) / 2
+    return n.is_integer()
+
+
+def is_pentagon(y):
+    n = (1 + (1 + 24 * x) ** 0.5) / 6
+    return n.is_integer()
+
+
 def pandigitals():
     pans = []
     for perm in itertools.permutations('0123456789'):
