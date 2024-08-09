@@ -69,6 +69,14 @@ def pandigitals():
         pans.append(perm)
 
 
+def pentagonals():
+    pentagonal_numbers = []
+    for i in range(1, 11):
+        i = (i * ((3 * i) - 1)) / 2
+        pentagonal_numbers.append(i)
+    return pentagonal_numbers
+
+
 """Files"""
 
 
