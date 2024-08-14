@@ -24,6 +24,33 @@ def is_prime(n):
     return True
 
 
+def is_composite(n):
+    n = int(n)
+    if n < 2:
+        return True
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return True
+    return False
+
+
+def is_composite_and_odd(n):
+    n = int(n)
+    if n == 0:
+        return False
+    if n == 1:
+        return True
+    if n == 2:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            if n % 2 == 0:
+                return True
+            else:
+                return False
+    return False
+
+
 def is_palindrome(m):
     m = str(m)
     reverse = m[::-1]
