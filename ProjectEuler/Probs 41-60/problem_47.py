@@ -3,7 +3,7 @@
 
 
 def prime_factors_count(n):
-    factors = set()
+    factors = set( )
     divisor = 2
     while n > 1:
         while n % divisor == 0:
