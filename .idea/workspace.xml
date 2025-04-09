@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Added from Linux">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_48.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Problem 48 done">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_49.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectEuler/basic_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/basic_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +104,7 @@
     "Python.problem_46.executor": "Run",
     "Python.problem_47.executor": "Run",
     "Python.problem_48.executor": "Run",
+    "Python.problem_49.executor": "Run",
     "Python.problem_5.executor": "Run",
     "Python.problem_6.executor": "Run",
     "Python.problem_7.executor": "Run",
@@ -117,6 +119,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ProjectEuler/Probs 41-60" />
       <recent name="C:\Users\finan\PycharmProjects\Math\ProjectEuler" />
       <recent name="C:\Users\finan\PycharmProjects\Math\ProjectEuler\Probs 21-40" />
       <recent name="C:\Users\finan\PycharmProjects\testing\ProjectEuler" />
@@ -137,14 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719892352141</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Create first Rep in github, and created 2 problem solutions">
-      <option name="closed" value="true" />
-      <created>1720187953271</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1720187953271</updated>
     </task>
     <task id="LOCAL-00002" summary="Created Readme files">
       <option name="closed" value="true" />
@@ -530,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739934553252</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Problem 48 done">
+      <option name="closed" value="true" />
+      <created>1744165574416</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1744165574416</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -545,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="problem_23" />
     <MESSAGE value="problem_24" />
     <MESSAGE value="problem_25" />
     <MESSAGE value="problem_26" />
@@ -570,7 +572,8 @@
     <MESSAGE value="problem_45" />
     <MESSAGE value="problem_46" />
     <MESSAGE value="Added from Linux" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added from Linux" />
+    <MESSAGE value="Problem 48 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 48 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
