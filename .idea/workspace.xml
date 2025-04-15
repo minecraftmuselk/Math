@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Problem 51 done">
-      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_52.py" afterDir="false" />
+    <list default="true" id="ea0d4bf4-523f-4c50-9d65-20acca7c9754" name="Changes" comment="Problem 52 done">
+      <change afterPath="$PROJECT_DIR$/ProjectEuler/Probs 41-60/problem_53.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,71 +54,71 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.basic_functions.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.network.executor": "Run",
-    "Python.problem_1.executor": "Run",
-    "Python.problem_10.executor": "Run",
-    "Python.problem_11.executor": "Run",
-    "Python.problem_12.executor": "Run",
-    "Python.problem_13.executor": "Run",
-    "Python.problem_14.executor": "Run",
-    "Python.problem_15.executor": "Run",
-    "Python.problem_16.executor": "Run",
-    "Python.problem_17.executor": "Run",
-    "Python.problem_18.executor": "Run",
-    "Python.problem_19.executor": "Run",
-    "Python.problem_2.executor": "Run",
-    "Python.problem_20.executor": "Run",
-    "Python.problem_21.executor": "Run",
-    "Python.problem_22.executor": "Run",
-    "Python.problem_23.executor": "Run",
-    "Python.problem_24.executor": "Run",
-    "Python.problem_25.executor": "Run",
-    "Python.problem_26.executor": "Run",
-    "Python.problem_27.executor": "Run",
-    "Python.problem_28.executor": "Run",
-    "Python.problem_29.executor": "Run",
-    "Python.problem_3.executor": "Run",
-    "Python.problem_30.executor": "Run",
-    "Python.problem_31.executor": "Run",
-    "Python.problem_32.executor": "Run",
-    "Python.problem_33.executor": "Run",
-    "Python.problem_34.executor": "Run",
-    "Python.problem_35.executor": "Run",
-    "Python.problem_36.executor": "Run",
-    "Python.problem_37.executor": "Run",
-    "Python.problem_38.executor": "Run",
-    "Python.problem_39.executor": "Run",
-    "Python.problem_4.executor": "Run",
-    "Python.problem_40.executor": "Run",
-    "Python.problem_41.executor": "Run",
-    "Python.problem_42.executor": "Run",
-    "Python.problem_43.executor": "Run",
-    "Python.problem_44.executor": "Run",
-    "Python.problem_45.executor": "Run",
-    "Python.problem_46.executor": "Run",
-    "Python.problem_47.executor": "Run",
-    "Python.problem_48.executor": "Run",
-    "Python.problem_49.executor": "Run",
-    "Python.problem_5.executor": "Run",
-    "Python.problem_50.executor": "Run",
-    "Python.problem_51.executor": "Run",
-    "Python.problem_52.executor": "Run",
-    "Python.problem_6.executor": "Run",
-    "Python.problem_7.executor": "Run",
-    "Python.problem_8.executor": "Run",
-    "Python.problem_9.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/finan/PycharmProjects/Knowledge",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.basic_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.network.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_20.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_21.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_22.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_23.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_24.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_25.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_26.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_27.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_28.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_29.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_30.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_31.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_32.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_33.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_34.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_35.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_36.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_37.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_38.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_39.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_40.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_41.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_42.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_43.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_44.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_45.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_46.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_47.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_48.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_49.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_50.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_51.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_52.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.problem_9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/finan/PycharmProjects/Knowledge&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ProjectEuler/Probs 41-60" />
@@ -142,14 +142,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719892352141</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Problem 11">
-      <option name="closed" value="true" />
-      <created>1720497218025</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1720497218025</updated>
     </task>
     <task id="LOCAL-00006" summary="Problem 12">
       <option name="closed" value="true" />
@@ -535,7 +527,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744641369444</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Problem 52 done">
+      <option name="closed" value="true" />
+      <created>1744642245749</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1744642245749</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -550,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="problem_27" />
     <MESSAGE value="problem_29" />
     <MESSAGE value="problem_30" />
     <MESSAGE value="Updated with comments" />
@@ -575,7 +574,8 @@
     <MESSAGE value="Problem 49 done" />
     <MESSAGE value="Problem 50 done" />
     <MESSAGE value="Problem 51 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 51 done" />
+    <MESSAGE value="Problem 52 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 52 done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
