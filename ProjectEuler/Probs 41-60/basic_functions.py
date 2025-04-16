@@ -3,8 +3,7 @@ import itertools
 
 
 def rotate_number(k):
-    s = str(k)
-    return [int(s[i:] + s[:i]) for i in range(len(s))]
+    return int(str(k)[::-1])
 
 
 def convert_to_binary(b):
