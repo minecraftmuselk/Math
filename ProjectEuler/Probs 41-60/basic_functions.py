@@ -9,6 +9,9 @@ def rotate_number(k):
 def convert_to_binary(b):
     return bin(b)[2:]
 
+def sum_digits(n):
+    return sum(int(d) for d in str(abs(n)))
+
 
 """Checking if a number has certain property"""
 
